@@ -1,4 +1,4 @@
-# Hi, I'm Manas Maheshwari
+﻿# Hi, I'm Manas Maheshwari
 
 Aspiring Product Manager who builds. I work on CRM and lead operations in proptech, where I automate workflows, build analytics and apply AI tooling to day-to-day sales operations. I like turning messy operational data into decisions, and decisions into shipped product.
 
@@ -24,9 +24,9 @@ Aspiring Product Manager who builds. I work on CRM and lead operations in propte
 |---|---|
 | [pm-case-studies](https://github.com/manasmaheshwari/pm-case-studies) | Three outside-in teardowns of Indian consumer apps (Zepto, CRED, Swiggy Instamart) with PRD, RICE and experiment templates |
 | [product-metrics-playbook](https://github.com/manasmaheshwari/product-metrics-playbook) | SQL and pandas recipes for funnel, cohort retention and conversion by source, with common pitfalls and tests |
-| [lead-scoring-ml](https://github.com/manasmaheshwari/lead-scoring-ml) | Machine-learning approach to scoring and prioritising sales leads |
-| [ai-call-summarizer](https://github.com/manasmaheshwari/ai-call-summarizer) | Summarises sales call recordings into concise, actionable notes |
-| [mini-crm](https://github.com/manasmaheshwari/mini-crm) | A lightweight CRM built to explore lead and pipeline workflows |
+| [lead-scoring-ml](https://github.com/manasmaheshwari/lead-scoring-ml) | Gradient-boosting lead scoring with SHAP explanations and notes on thresholds vs sales capacity |
+| [ai-call-summarizer](https://github.com/manasmaheshwari/ai-call-summarizer) | Turns sales-call transcripts into structured CRM JSON with Claude, with an offline fallback and evaluation playbook |
+| [mini-crm](https://github.com/manasmaheshwari/mini-crm) | FastAPI + SQLite CRM with stage history and a funnel-conversion metrics endpoint |
 | [rent-vs-buy-india](https://github.com/manasmaheshwari/rent-vs-buy-india) | Calculator comparing renting and buying a home in India |
 | [expense-splitter](https://github.com/manasmaheshwari/expense-splitter) | Splits shared expenses between friends and settles balances |
 | [job-tracker](https://github.com/manasmaheshwari/job-tracker) | Tracks job applications and their stages |
